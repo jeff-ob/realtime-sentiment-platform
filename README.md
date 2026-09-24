@@ -1,13 +1,16 @@
 # 🧠 Real-Time Sentiment Intelligence Platform
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://realtime-sentiment-platform.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11%20%7C%203.14-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://realtime-sentiment-platform.streamlit.app/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/)
 [![Groq](https://img.shields.io/badge/Groq-Llama%203%20LLM-F05A28?style=for-the-badge&logo=groq&logoColor=white)](https://groq.com/)
 [![Redis](https://img.shields.io/badge/Redis-Streams%20Broker-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 > **Plateforme d'intelligence de sentiment en temps réel (NLP & LLM)** permettant l'ingestion continue de flux textuels (Reddit, News, flux synthétique), l'analyse sémantique par Transformers (`RoBERTa`), la détection de pics de crise (Z-Score) et la génération automatisée de synthèses exécutives par IA générative (`Groq` / `Llama 3`).
+
+🔗 **Application en ligne :** [https://realtime-sentiment-platform.streamlit.app/](https://realtime-sentiment-platform.streamlit.app/)
 
 ---
 
@@ -210,6 +213,8 @@ GROQ_API_KEY = "..."
 REDIS_URL = "..."
 ```
 
+> 🌐 **Application déployée et accessible en production :** [https://realtime-sentiment-platform.streamlit.app/](https://realtime-sentiment-platform.streamlit.app/)
+
 ---
 
 ## 🛠️ Stack Technique
@@ -230,6 +235,7 @@ REDIS_URL = "..."
 
 **Projet Portfolio Data Science / NLP / BI**
 
+- **Application en direct** : [realtime-sentiment-platform.streamlit.app](https://realtime-sentiment-platform.streamlit.app/)
 - **Projet complémentaire** : [Smart Sales Analytics Platform](https://jeff-ob-smart-sales-platform.streamlit.app) *(Sales Analytics, Prophet, Machine Learning Tabulaire)*
 - **Profils ciblés** : Data Scientist, NLP Engineer, Développeur BI
 

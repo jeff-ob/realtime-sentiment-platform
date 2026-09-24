@@ -22,8 +22,8 @@ Ce projet apporte la dimension NLP + LLM + streaming qui manquait au portfolio.
 **Contrainte forte** : 100% gratuit. Aucune API payante (pas d'OpenAI, pas d'Anthropic API).
 Alternatives gratuites choisies : Ollama + Mistral 7B (local) et/ou Groq API (cloud gratuit).
 
-**Déploiement prévu** : GitHub + hébergement à définir (Streamlit Cloud probable,
-dans la continuité du projet précédent).
+**Déploiement en ligne** : Streamlit Cloud (https://realtime-sentiment-platform.streamlit.app/)
+Repo GitHub : https://github.com/jeff-ob/realtime-sentiment-platform
 
 ---
 
