@@ -1,0 +1,16 @@
+# ============================================
+# Exploration & Notebook Dependencies (Dev)
+# ============================================
+-r requirements.txt
+
+# --- Notebook EDA & Interactive ---
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.0
+matplotlib>=3.7
+seaborn>=0.12
+
+# --- Research & Topic Modeling ---
+sentence-transformers>=2.2
+bertopic>=0.15
+ollama>=0.1
